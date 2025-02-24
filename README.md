@@ -3,6 +3,8 @@
 **Author**: Martin Royer
 **Copyright**: INRIA
 
+Atol has been integrated in gudhi, see: https://gudhi.inria.fr/python/latest/_modules/gudhi/representations/vector_methods.html#Atol.
+
 # Description
 
 `atol` is a python package implementing an automatic measure vectorisation procedure for topological learning problems. It is based on the ATOL paper https://hal.archives-ouvertes.fr/hal-02296513. It contains a notebook with short usage demonstration 'atol-demo.ipynb'. Install with:
